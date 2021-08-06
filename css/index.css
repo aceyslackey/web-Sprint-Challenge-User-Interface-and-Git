@@ -320,19 +320,41 @@ footer nav a {
 .about h2{
     padding-left: 3%;
 }
-.strategy .working{
-    padding-top: 3%;
-  
-}
 
-.strategy .working p{
-    width: 40%;
-}
-
-.strategy .working h2{
+.howwe{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+    text-align: justify;
     padding-top: 2%;
+    padding-bottom: 12%;
+}
+.strategy p{
+    width:70%
 }
 
+.strategy h2{
+    padding-top: 5%;
+}
+
+.strategy button{
+margin-top: 10%;
+background: white
+
+}
+
+.working p{ 
+width: 70%;
+}
+
+.working  h2{
+    padding-top: 5%;
+}
+
+.working button{
+    margin-top: 10%;
+    background: white
+}
  .ending h2{
      padding-top: 5%;
  }
@@ -346,8 +368,35 @@ footer nav a {
      justify-content: center;
     border-bottom: 1px dashed black;
     text-align: justify;
+    padding-top: 2%;
+    padding-bottom: 4%;
  }
 
+ .macs p{
+     width: 70%;
+     
+ }
 
+ .macs h2{
+     padding-top: 5%;
+ }
+
+ .macs button{
+     margin-top: 10%;
+     background: white
+ }
+
+ .meeting p{
+     width: 70%;
+ }
+
+ .meeting button{
+     margin-top: 10%;
+     background: white
+ }
+
+ .meeting h2{
+     padding-top: 5%;
+ }
    
 
